@@ -14,7 +14,7 @@ Natural Path is the all in one appointment, product, and service hub for Asian n
   - [Table of Contents](#table-of-contents)
   - [Built With](#built-with)
   - [Usage](#usage)
-  - [Websites](#websites)
+  - [Website](#website)
   - [Credits](#credits)
   - [Questions](#questions)
 
@@ -32,10 +32,16 @@ Natural Path is the all in one appointment, product, and service hub for Asian n
  
 ## Usage 
 
+Connect to mongoDB in your home directory
+npm i
+npm start
+cd client 
+npm start
+
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/89411805/156521703-d667b7a7-648c-4584-9bf6-4a06df47e4fc.gif)
 
 
-## Websites
+## Website
 Deployed here: https://carter-natural-path.herokuapp.com/
 
 
