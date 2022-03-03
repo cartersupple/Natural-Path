@@ -46,7 +46,7 @@ Deployed here: https://carter-natural-path.herokuapp.com/
 
 
 
-## Credits
+## Contributors
 
 
 [Nathan Batchelder](https://github.com/NateBatch)<br/>
